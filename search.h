@@ -1,5 +1,5 @@
 // Name : M.Talha Adnan
-// This is the project 2. This file contains the functions of the search engine created.
+// This file contains the functions of the search engine created.
 
 #pragma once
 

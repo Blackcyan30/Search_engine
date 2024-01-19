@@ -1,7 +1,5 @@
 // Name : M. Talha Adnan
-// UIN: 664908073
-// mkhan387@uic.edu
-// This is the project 2 of CS 251 fall 2023. This file contains the functions of the search engine created.
+// This file contains the functions of the search engine created.
 
 #include <iostream>
 #include <fstream>
